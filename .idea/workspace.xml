@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="701321b0-aa26-4ed9-803b-89cc6b23ae4a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Jsp File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/AndaBlockChain" />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1Tp6HZLXUNS75vxSe6jYTu1NNDC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.27701148" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\YAY\Desktop\demo\src\main\webapp\css" />
+      <recent name="C:\Users\YAY\Desktop\demo\src\main\webapp\js" />
+      <recent name="E:\cjp\demo\src\test\fixture\sdkintegration\javacc\sample1\src\main\java\org\hyperledger\fabric\example" />
+      <recent name="E:\cjp\demo\src\test\fixture\sdkintegration\javacc\sample1\src" />
+      <recent name="E:\cjp\demo\src\main\webapp\WEB-INF\jsp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mian.wxPay.controller" />
+      <recent name="com.mian.wxPay.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\YAY\Desktop\wxpay-example\src\main\webapp" />
+      <recent name="C:\Users\YAY\Desktop\wxpay-example\src\main\java\com\mian\wxPay" />
+      <recent name="C:\Users\YAY\Desktop\wxpay-example\src\main\java\com\mian\wxPay\util" />
+      <recent name="C:\Users\YAY\Desktop\wxpay-example\src\main\java\com\mian\wxPay\entity" />
+      <recent name="C:\Users\YAY\Desktop\wxpay-example\src\main\webapp\js" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn compile" />
+      <command value="mvn package" />
+      <command value="mvn clean" />
+      <command value="35000" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="WxPayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="wxpay-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mian.wxPay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mian.wxPay.WxPayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.WxPayApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="701321b0-aa26-4ed9-803b-89cc6b23ae4a" name="Default Changelist" comment="" />
+      <created>1574144602108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574144602108</updated>
+      <workItem from="1574144604135" duration="9931000" />
+      <workItem from="1574155392672" duration="1878000" />
+      <workItem from="1574211096639" duration="22557000" />
+      <workItem from="1574297586641" duration="748000" />
+      <workItem from="1574387450359" duration="1446000" />
+      <workItem from="1574397421413" duration="3323000" />
+      <workItem from="1574642275513" duration="4939000" />
+      <workItem from="1574667878107" duration="8215000" />
+      <workItem from="1574676956837" duration="1028000" />
+      <workItem from="1574728580072" duration="32824000" />
+      <workItem from="1574815040253" duration="12543000" />
+      <workItem from="1574842092765" duration="4812000" />
+      <workItem from="1575507099966" duration="11258000" />
+      <workItem from="1575523227079" duration="117000" />
+      <workItem from="1575528095932" duration="10834000" />
+      <workItem from="1575592799721" duration="17666000" />
+      <workItem from="1575618510567" duration="7040000" />
+      <workItem from="1575765450163" duration="3728000" />
+      <workItem from="1575769494655" duration="27641000" />
+      <workItem from="1575851612512" duration="33072000" />
+      <workItem from="1575938065443" duration="368000" />
+      <workItem from="1575938837085" duration="8106000" />
+      <workItem from="1575953070561" duration="17355000" />
+      <workItem from="1576024914486" duration="29117000" />
+      <workItem from="1576111035203" duration="16603000" />
+      <workItem from="1576137718390" duration="7435000" />
+      <workItem from="1576201369566" duration="317000" />
+      <workItem from="1576203661119" duration="12137000" />
+      <workItem from="1576639124044" duration="19476000" />
+      <workItem from="1576716164771" duration="15300000" />
+      <workItem from="1577155158480" duration="3510000" />
+      <workItem from="1577161888683" duration="377000" />
+      <workItem from="1587463446467" duration="228000" />
+      <workItem from="1587463790012" duration="1817000" />
+      <workItem from="1587541842257" duration="6765000" />
+      <workItem from="1592878685010" duration="247000" />
+      <workItem from="1592878983891" duration="5572000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="fabric_sdk_integration_java:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>fabric_sdk_integration_java</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="WEB_Wallet-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="fabric_sdk_integration_java:war exploded" />
+    </root>
+  </artifact>
+</component>
